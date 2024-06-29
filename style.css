@@ -1,0 +1,75 @@
+body{
+    background-color: aliceblue;
+text-align: center;
+}
+
+.container-intro{
+    background-image: url(./background\ image.jpg);
+    position:relative;
+    padding-top: 50px;
+}
+.name{
+color: antiquewhite;
+font-family: cursive;
+font-size: 50px;
+margin-top: auto;
+}
+.professional{
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.pro{
+    text-decoration:underline;
+}
+.adam{
+    border-radius: 50%;
+    margin-top: 50px;
+}
+h2{
+color: #66bfbf;
+}
+p{
+margin: auto;
+width: 30%;
+padding-bottom: 20px;
+}
+hr{
+    border: dotted #a0c8c8 6px;
+    width: 10%; 
+    border-bottom: none;
+    margin: 50px auto;
+}
+.pro-adam{
+    margin-top: 20px;
+}
+.bar-adam{
+    margin-top: 20px;
+}
+.icon-link{
+    background: #66bfbf;
+    border-radius: 8px;
+   color: #ffffff;
+    font-size: 15px;
+    padding: 5px 10px 5px 15px;
+    text-decoration: none;
+    margin-top: 50px;
+}
+.footer{
+    background-color: #66bfbf;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    
+}
+.nav-link{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 10px;
+    text-decoration: none;
+    
+}
+.footer-p{
+    margin-top: 50px;
+}
